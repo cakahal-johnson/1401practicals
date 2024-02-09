@@ -1,0 +1,48 @@
+Logic Exercise
+
+Smith is the Project Manager
+Jones is the Programmer
+Brown is the Consultant
+
+Algorithm with I, P, O
+
+get dosage, yield
+ratio = yield / dosage
+display ratio
+
+Algorithm with Decision
+
+get money, price
+if money >= price
+    display can affordable
+else
+    display can not affordable
+
+Algorithm with Repetition
+
+get object from floor
+while there are objects on the floor
+    get object from floor
+or
+repeat until floor is clean
+    get object from floor
+
+Problem Decomposition
+1.
+
+get hourly dosage
+total amount = hourly dosage
+display total amount
+
+2.
+
+get customer name, date
+total charge = booking
+display total amount
+
+3.
+
+get distance, time in minutes
+speed in kilometres per minute = distance / time in minutes
+speed in kilometres per hour = in kilometres per minutes * 60
+display in kilometres per hour
